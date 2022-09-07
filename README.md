@@ -1,4 +1,4 @@
-## Some random Jupyter Notebooks i have worked on
+## Some random Jupyter Notebooks I have worked on
 
 # F1 Analsys -
 full notebook on a specific race
